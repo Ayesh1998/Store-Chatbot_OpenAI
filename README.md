@@ -11,7 +11,7 @@
 
 ## Hosted URL
 
-- Hosted Link - https://crafts-store.vercel.app/
+- Hosted Link - https://bookstore-chatbot-beryl.vercel.app/
 
 ## Project Structure
 
